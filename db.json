@@ -184,18 +184,28 @@
   "categoria": [
     {
       "categoriaName": "Desenho",
-      "categoriaImg": "https://www.gratistodo.com/wp-content/uploads/2016/12/Leones-6.jpg",
+      "categoriaImg": "https://cps-static.rovicorp.com/2/Open/Nickelodeon/Backyardigans/_derived_jpg_q90_584x800_m0/The%20Backyardigans%20%20HR%203.jpg",
       "id": 1
     },
     {
       "categoriaName": "Musica",
-      "categoriaImg": "https://www.gratistodo.com/wp-content/uploads/2016/12/Leones-6.jpg",
+      "categoriaImg": "https://img.freepik.com/free-vector/illustration-children-music_29937-2496.jpg?size=626&ext=jpg",
       "id": 2
     },
     {
       "categoriaName": "Filme",
-      "categoriaImg": "https://www.gratistodo.com/wp-content/uploads/2016/12/Leones-6.jpg",
+      "categoriaImg": "https://assets.mycast.io/characters/young-judy-hopps-675617-normal.jpg?1589760814",
       "id": 3
+    },
+    {
+      "categoriaName": "Escolinha",
+      "categoriaImg": "https://st3.depositphotos.com/3532197/16580/v/1600/depositphotos_165806264-stock-illustration-cute-funny-childish-alphabet-vector.jpg",
+      "id": 4
+    },
+    {
+      "categoriaName": "Animais",
+      "categoriaImg": "https://www.coloringcity.net/wp-content/uploads/2018/03/depositphotos_12187671_stock_illustration_funny_animal_cartoon_set_7.jpg",
+      "id": 5
     }
   ]
 }
