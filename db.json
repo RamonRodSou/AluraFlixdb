@@ -196,16 +196,6 @@
       "categoriaName": "Filme",
       "categoriaImg": "https://assets.mycast.io/characters/young-judy-hopps-675617-normal.jpg?1589760814",
       "id": 3
-    },
-    {
-      "categoriaName": "Escolinha",
-      "categoriaImg": "https://st3.depositphotos.com/3532197/16580/v/1600/depositphotos_165806264-stock-illustration-cute-funny-childish-alphabet-vector.jpg",
-      "id": 4
-    },
-    {
-      "categoriaName": "Animais",
-      "categoriaImg": "https://www.coloringcity.net/wp-content/uploads/2018/03/depositphotos_12187671_stock_illustration_funny_animal_cartoon_set_7.jpg",
-      "id": 5
     }
   ]
 }
